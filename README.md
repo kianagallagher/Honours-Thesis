@@ -18,3 +18,9 @@ Trains the U-Net model on individual PCCT images.
 
 ## Conventional_CT_U-Net_Training.ipynb
 Trains the U-Net model on conventional CT images.
+
+## Model_Output.ipynb
+Calculates the image metrics for models trained on PCCT and Conventional CT data
+
+## Average_Calculations.ipynb
+Calculates the average image metrics for models trained on PCCT and Conventional CT data
